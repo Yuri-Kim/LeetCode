@@ -16,5 +16,9 @@
 
 53. Maximum Subarray [문제](https://leetcode.com/problems/maximum-subarray/), [풀이](https://github.com/Yuri-Kim/LeetCode/blob/main/Easy/53.%20Maximum%20Subarray.md)
 
-155. Min Stack [문제](https://leetcode.com/problems/min-stack/)
+155. Min Stack [문제](https://leetcode.com/problems/min-stack/), [풀이](https://github.com/Yuri-Kim/LeetCode/blob/main/Easy/155.%20Min%20Stack.md)
+
+206. Reverse Linked List [문제](https://leetcode.com/problems/reverse-linked-list/), 
+
+412. Fizz Buzz [문제](https://leetcode.com/problems/fizz-buzz/), [풀이](https://github.com/Yuri-Kim/LeetCode/blob/main/Easy/412.%20Fizz%20Buzz.md)
 
